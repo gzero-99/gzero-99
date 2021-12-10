@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+r=auto&height=300&section=header&text=gzero-99&fontSize=90)
+
+[![gzero-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzero-99)](https://github.com/anuraghazra/github-readme-stats) 
+
 <!--
 **gzero-99/gzero-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
