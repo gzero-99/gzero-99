@@ -3,8 +3,7 @@
 
 [![gzero-99's GitHub stats](https://github-readme-stats.vercel.app/api?username=gzero-99)](https://github.com/anuraghazra/github-readme-stats) 
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style-square&logo=Java&logoColor=orange"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style-square&logo=Java&logoColor=white"/>
 
 <!--
 **gzero-99/gzero-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
