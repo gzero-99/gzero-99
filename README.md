@@ -8,7 +8,8 @@
 <img src="https://img.shields.io/badge/c-pink?style=flat&logo=c&logoColor=FF3399"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=flat&logo=MySQL&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/github-black?style=flat&logo=github&logoColor=FFFFFF"/>
-
+<img src="https://img.shields.io/badge/python-yellow?style=flat&logo=python&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
 
 <!--
 **gzero-99/gzero-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
